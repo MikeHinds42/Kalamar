@@ -1,1 +1,1 @@
-Ethereal race from [Evershadow Expanse](Evershadow%20Expanse.md.md)
+Ethereal race from [[Evershadow Expanse.md.md|Evershadow Expanse]]

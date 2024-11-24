@@ -1,4 +1,4 @@
-[Grathmar](Grathmar.md.md)
+[[Grathmar.md.md|Grathmar]]
 
 ### RaKane (Ra meaning Loremaster)
 
