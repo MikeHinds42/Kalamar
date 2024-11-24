@@ -1,0 +1,3 @@
+### The Tome of Lunar Benedictions
+
+This great tome, bound in silver-threaded leather and imbued with a faint, soothing glow, is titled _The Lunar Codex of Sylwen_. It details the Elves' mastery of lunar-powered magic, focusing on its uses in healing, purification, and enhancing natural growth. Chapters describe rituals to align magical energies with the phases of the moon, lunar-based potion recipes, and even methods for invoking protective wards under moonlight. The tome itself radiates a calming aura, granting minor regeneration to anyone within close proximity, but only under moonlight. It is both a treasure of knowledge and a potent magical artifact.
