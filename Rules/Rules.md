@@ -1,0 +1,7 @@
+[[Critical roll]]
+[[Difficulty]]
+[[Magic (for most spells)]]
+[[Movement]]
+[[Range Table]]
+[[Visualisation and Wild Talent]]
+[[potions skills]]
