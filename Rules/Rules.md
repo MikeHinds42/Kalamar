@@ -1,7 +1,7 @@
-[[Critical roll]]
-[[Difficulty]]
-[[Magic (for most spells)]]
-[[Movement]]
-[[Range Table]]
-[[Visualisation and Wild Talent]]
-[[potions skills]]
+[Critical roll](Critical%20roll.md)
+[Difficulty](Difficulty.md)
+[Magic (for most spells)](for%20most%20spells)).md)
+[Movement](Movement.md)
+[Range Table](Range%20Table.md)
+[Visualisation and Wild Talent](Visualisation%20and%20Wild%20Talent.md)
+[potions skills](potions%20skills.md)
